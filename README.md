@@ -42,7 +42,7 @@ Before you start, ensure you have the following installed on your system:
    Execute the Python script to start the game.
 
    ```sh
-   python hand_gesture_2048.py
+   python main.py
    ```
 
 ## Usage
