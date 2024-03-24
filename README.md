@@ -60,3 +60,12 @@ Before you start, ensure you have the following installed on your system:
 ## Note
 
 This project is for educational purposes and demonstrates the use of computer vision and web automation technologies to interact with web-based applications in a novel way.
+
+## Contributions
+
+Contributions to this project are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request. Your contributions can help make this project even better.
+
+## License
+
+This project is open-sourced under the MIT License. See the LICENSE file for more information.
+
